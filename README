@@ -1,0 +1,20 @@
+Name: Sumit Subhash Jangid
+Email: sumit.jangid@csu.fullerton.edu
+
+Fractional Calculator
+
+In this application user will have the following features:
+
+1. Calculate Multiplication, Division, Subtraction and Addition of fractions. 
+User must give minimum five inputs that is Numerator One, Denominator One,Any Operator(+,-,*,÷), Numerator Two, and Denominator two.
+
+2. User cannot have zero in Denominator.
+
+3. The Square Root function will give user square root of an expression.
+  
+4. Square Root feature can check an error of root of minus error.
+
+5. AC button will Clear the screen.
+   
+6. Solidus button will help in separating Numerator and Denominator.
+
